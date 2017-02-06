@@ -1,0 +1,11 @@
+C:\Users\krystian.magiera\Documents\Code\VisualStudio\NUnit.Tests2\NUnit.Tests2\obj\Debug\NUnit.Tests2.csprojResolveAssemblyReference.cache
+C:\Users\krystian.magiera\Documents\Code\VisualStudio\NUnit.Tests2\NUnit.Tests2\bin\Debug\NUnit.Tests2.dll
+C:\Users\krystian.magiera\Documents\Code\VisualStudio\NUnit.Tests2\NUnit.Tests2\bin\Debug\NUnit.Tests2.pdb
+C:\Users\krystian.magiera\Documents\Code\VisualStudio\NUnit.Tests2\NUnit.Tests2\bin\Debug\nunit.framework.dll
+C:\Users\krystian.magiera\Documents\Code\VisualStudio\NUnit.Tests2\NUnit.Tests2\bin\Debug\WebDriver.dll
+C:\Users\krystian.magiera\Documents\Code\VisualStudio\NUnit.Tests2\NUnit.Tests2\bin\Debug\WebDriver.Support.dll
+C:\Users\krystian.magiera\Documents\Code\VisualStudio\NUnit.Tests2\NUnit.Tests2\bin\Debug\nunit.framework.xml
+C:\Users\krystian.magiera\Documents\Code\VisualStudio\NUnit.Tests2\NUnit.Tests2\bin\Debug\WebDriver.xml
+C:\Users\krystian.magiera\Documents\Code\VisualStudio\NUnit.Tests2\NUnit.Tests2\bin\Debug\WebDriver.Support.xml
+C:\Users\krystian.magiera\Documents\Code\VisualStudio\NUnit.Tests2\NUnit.Tests2\obj\Debug\NUnit.Tests2.dll
+C:\Users\krystian.magiera\Documents\Code\VisualStudio\NUnit.Tests2\NUnit.Tests2\obj\Debug\NUnit.Tests2.pdb
